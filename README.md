@@ -1,6 +1,6 @@
 # Hi, my name is Mike Jaartsveld.
 
-Here you can find all the code for my projects displayed on [javeld.nl](javeld.nl).
+Here you can find all the code for my projects displayed on [javeld.nl](https://www.javeld.nl).
 
 ---
 
